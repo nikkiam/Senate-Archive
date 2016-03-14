@@ -1,0 +1,37 @@
+1458083298
+a:2:{s:7:"content";s:1884:"<div class="modular-row features big">
+    <h2>Built on top of Greatness</h2>
+<h3>Four core tenants keep Grav focused</h3>
+<p>We believe the best recipe to make something great, is to bake with <a href="/archive/home/_highlights">quality ingredients</a> and add dollops of <a href="/archive/home/_highlights">cool stuff</a>. </p>
+    <div class="feature-items">
+               <div class="feature">
+                        <i class="fa fa-fw fa-fighter-jet"></i>
+            <div class="feature-content icon-offset">
+                                    <h4>Crazy Fast</h4>
+                                    <p>Performance is not just an afterthought, we baked it in from the start!</p>
+                        </div>
+        </div>
+               <div class="feature">
+                        <i class="fa fa-fw fa-database"></i>
+            <div class="feature-content icon-offset">
+                                    <h4>Easy to build</h4>
+                                    <p>Simple text files means Grav is trivial to install, and easy to maintain.</p>
+                        </div>
+        </div>
+               <div class="feature">
+                        <i class="fa fa-fw fa-cubes"></i>
+            <div class="feature-content icon-offset">
+                                    <h4>Awesome Technology</h4>
+                                    <p>Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml</p>
+                        </div>
+        </div>
+               <div class="feature">
+                        <i class="fa fa-fw fa-puzzle-piece"></i>
+            <div class="feature-content icon-offset">
+                                    <h4>Super Flexible</h4>
+                                    <p>From the ground up, with many plugin hooks, Grav is extremely extensible</p>
+                        </div>
+        </div>
+        </div>
+</div>
+";s:12:"content_meta";N;}

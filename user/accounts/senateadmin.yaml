@@ -1,0 +1,11 @@
+email: nkinde@cmu.edu
+fullname: 'Student Senate'
+title: Archivist
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$tpANclIDoIzorvLk7zs.YOmOEM64YF8t9YxEMdPeN2I5atzjIT/yG
