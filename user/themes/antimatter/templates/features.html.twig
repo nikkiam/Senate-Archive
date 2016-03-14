@@ -1,0 +1,16 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="features">
+    {{ content }}
+    <ul>
+    {% for feature in page.header.features %}
+        <li>
+            <i class="fa fa-fw fa-{{ feature.icon }}"></i>
+            <h4>{{ feature.title }}</h4>
+            <p>{{ feature.subtitle }}</p>
+        </li>
+    {% endfor %}
+    </ul>
+</div>
+{% endblock %}
