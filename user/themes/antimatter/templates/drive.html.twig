@@ -1,0 +1,12 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+{% set blog_image = page.media.images|first.grayscale().contrast(20).brightness(-100).colorize(-35,81,122) %}
+
+<div class="flush-top blog-header blog-header-image" style="background-image: blog-header.jpg"></div>
+
+{{ page.content }}
+
+<iframe src="https://drive.google.com/embeddedfolderview?id={{ page.header.drive.folder }}#list" width="700" height="500" frameborder="0" style="margin: auto;"></iframe>
+
+{% endblock %}
